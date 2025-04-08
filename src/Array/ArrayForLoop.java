@@ -21,9 +21,7 @@ public class ArrayForLoop {
         int[] arrayByTen = new int[100]; // Create array of size 11
        	     for (int i = 10; i <= arrayByTen.length; i += 10) {
     	     System.out.println("This is one element of arrayByTen: "+i);
+    	     System.out.println("This is one element of arrayByTen: "+i);
     	     }
-       	        
-	}
-
-	
+ 	}
 }
